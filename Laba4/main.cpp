@@ -19,6 +19,7 @@ void myfunction(int i) {  // function:
 }
 
 template <typename ItemType>
+
 class myVector {
 private:
     int vect_size;
